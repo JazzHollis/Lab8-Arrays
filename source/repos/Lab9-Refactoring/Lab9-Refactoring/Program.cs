@@ -11,7 +11,7 @@ namespace Lab9_Refactoring
         static void Main(string[] args)
         {
             List<string> Students = new List<string> { "Kim", "Dorain", "Jackson", "Laura", "Daphne", "Mateo", "Shaniqua","John",
-                                  "Josiah","Jacob", "Alex", "Cynthia", "Mark", "Chad", "Dorian", "Rhonda", "Destiny", "Isaiah", "Katelyn", "Zamira"};
+                                  "Josiah","Jacob", "Alex", "Cynthia", "Marty", "Chad", "Dorian", "Rhonda", "Destiny", "Isaiah", "Katelyn", "Zamira"};
 
 
             List<string> Hometown = new List<string> { "Detroit","Seattle", "Chicago", "Atlanta", "New York", "St. Clair Shores", "Beverly Hills",
